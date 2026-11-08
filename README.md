@@ -1,9 +1,9 @@
-# shop-app
+# shop_app
 
 <p align="left">
    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
    <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/github/license/GabrielSchiavo/shop-app?color=blue&style=for-the-badge"/>
+   <img src="https://img.shields.io/github/license/GabrielSchiavo/shop_app?color=blue&style=for-the-badge"/>
 </p>
 
 App de loja com autenticação para exibição e cadastro de produtos desenvolvido com a linguagem Dart e framework Flutter.
